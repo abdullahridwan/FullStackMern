@@ -52,7 +52,7 @@ after it's deleted, you get a message saying that it's been deleted.
 */
 router.route('/:id').delete((req,res) => {
     Exercise.findByIdAndDelete(req.params.id)
-    .then(()=> res.json('Exercise deleted.'))
+    .then(()=> res.json('Exercise deleted. AND IM IN EXCERCISE.JS'))
     .catch(err => res.status(400).json('Error: ' + err));
 })
 
