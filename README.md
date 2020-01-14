@@ -1,4 +1,14 @@
+### Introduction
+### To Start 
+You can download as a zip file and open in any editor like VS Code. 
+Go to the terminal and navigate to the backend folder
+Once in the folder, run
+'nodemon server'
+you should get a message saying "MongoDB database connection established sucessfully"
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
