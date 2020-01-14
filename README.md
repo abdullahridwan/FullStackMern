@@ -1,9 +1,9 @@
-### Introduction
-### To Start 
-You can download as a zip file and open in any editor like VS Code. 
-Go to the terminal and navigate to the backend folder
-Once in the folder, run
-'nodemon server'
+## Introduction
+## To Start 
+You can download as a zip file and open in any editor like VS Code. <br />
+Go to the terminal and navigate to the backend folder <br/>
+Once in the folder, run <br/>
+### 'nodemon server'
 you should get a message saying "MongoDB database connection established sucessfully"
 
 
