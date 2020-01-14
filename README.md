@@ -18,6 +18,12 @@ In this Walkthrough, we create a new user named Henry and logged in a running se
 ![walkthrough](pictures/trackfit.gif)
 
 
+
+This is how the backend looks for the above demonstration!
+![walkthrough](pictures/backend.gif)
+
+
+
 ## To Start 
 You can download as a zip file and open in any editor like VS Code. <br />
 Go to the terminal and navigate to the backend folder <br/>
@@ -28,7 +34,7 @@ Once that occurs, open a new terminal and type in
 ### `npm start`
 The project should now be up and running! Enjoy!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Contact
+LinkedIn: https://www.linkedin.com/in/abdullahridwan/
 
 
