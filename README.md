@@ -1,6 +1,7 @@
 ## Introduction
 
 This is my first full stack project using the MERN stack!
+![MERN Stack](pictures/mern2.jpeg)
 
 For a while now, it has been hard to keep track of my workouts and exercises while at the gym with my friends. <br/>
 
@@ -12,10 +13,8 @@ Check out the walkthrough below!
 
 ## WalkThrough
 In this Walkthrough, we create a new user named Henry and logged in a running session. This session can be seen by other users in the table view!
-![walkthrough](trackfit.gif)
+![walkthrough](pictures/trackfit.gif)
 
-
-![MERN Stack](pictures/mern2.jpeg)
 
 ## To Start 
 You can download as a zip file and open in any editor like VS Code. <br />
