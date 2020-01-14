@@ -1,6 +1,7 @@
 ## Introduction
 
 This is my first full stack project using the MERN stack 
+![MERN Stack](pictures/mern.jpg)
 
 ## To Start 
 You can download as a zip file and open in any editor like VS Code. <br />
