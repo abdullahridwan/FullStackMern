@@ -8,7 +8,12 @@ Hence, this was a way for us to keep track of our workouts, while seeing what ev
 
 You can add Users and each user can input their exercise with different paramters, such as duration, time, etc. All of this can be seen on the 'Exercises' page. <br/>
 
-Here's a quick Walk Through!
+Check out the walkthrough below! 
+
+## WalkThrough
+In this Walkthrough, we create a new user named Henry and logged in a running session. This session can be seen by other users in the table view!
+![walkthrough](trackfit.gif)
+
 
 ![MERN Stack](pictures/mern2.jpeg)
 
