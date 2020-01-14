@@ -2,9 +2,8 @@
 
 This is my first full stack project using the MERN stack!
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="pictures/mern2.jpeg">
 </p>
-![MERN Stack](pictures/mern2.jpeg)
 
 For a while now, it has been hard to keep track of my workouts and exercises while at the gym with my friends. <br/>
 
