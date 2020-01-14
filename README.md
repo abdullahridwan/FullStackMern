@@ -1,8 +1,11 @@
 ## Introduction
 
 This is my first full stack project using the MERN stack!
+
+###Problem and Solution
 For a while now, it has been hard to keep track of my workouts and exercises while at the gym with my friends. <br/>
 Hence, this was a way for us to keep track of our workouts, while seeing what everyone else is doing to keep each other motivated!<br/>
+
 You can add Users and each user can input their exercise with different paramters, such as duration, time, etc. All of this can be seen on the 'Exercises' page. <br/>
 
 Here's a quick Walk Through!
