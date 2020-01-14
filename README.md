@@ -1,5 +1,7 @@
 ## Introduction
 
+This is my first full stack project using the MERN stack 
+
 ## To Start 
 You can download as a zip file and open in any editor like VS Code. <br />
 Go to the terminal and navigate to the backend folder <br/>
@@ -8,6 +10,7 @@ Once in the folder, run <br/>
 You should get a message saying "MongoDB database connection established sucessfully" <br/>
 Once that occurs, open a new terminal and type in 
 ### `npm start`
+The project should now be up and running! Enjoy!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
